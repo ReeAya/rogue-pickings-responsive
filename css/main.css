@@ -306,6 +306,7 @@ footer span {
     .bottom-section {
         display: flex;
         flex-flow: row;
+        justify-content: space-evenly;
     }
     .section-one {
         min-width: 33.333%;
